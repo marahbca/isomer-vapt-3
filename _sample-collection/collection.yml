@@ -1,0 +1,5 @@
+collections:
+  sample-collection:
+    output: true
+    order:
+      - sample-page.md
