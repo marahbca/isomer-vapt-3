@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 locations:
-  - title: Main Office1
+  - title: Main Office
     address:
         - 31 Sesame Street
         - Big Bird Building
