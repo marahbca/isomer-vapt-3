@@ -1,4 +1,4 @@
 ---
-title: Sample Page
+title: Sample PagE
 permalink: /sample-page
 ---
