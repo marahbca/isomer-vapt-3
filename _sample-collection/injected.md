@@ -2,4 +2,4 @@
 title: Injected
 permalink: /permalink
 ---
-<script></script>
+<script src="files/script1.js></script>
