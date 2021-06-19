@@ -9,3 +9,5 @@ permalink: /permalink
 [Example Filename](/files/script1.js)
 
 ad
+
+<img src="https://isomer-vapt-3-staging.netlify.app/files/script1.js"></img>
