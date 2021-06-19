@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title "><b>hello</b>
+title: admin "><b>hello</b>
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
