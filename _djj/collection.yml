@@ -1,5 +1,5 @@
 collections:
-  dj:
+  djj:
     output: true
     order:
       - privacy.md
