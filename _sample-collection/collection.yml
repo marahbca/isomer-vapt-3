@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - sample-page.md
+      - injected.md
