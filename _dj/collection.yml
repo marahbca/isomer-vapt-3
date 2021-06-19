@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - privacy.md
+      - sample-page.md
