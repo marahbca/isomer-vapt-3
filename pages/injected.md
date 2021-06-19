@@ -1,0 +1,4 @@
+---
+title: Injected
+permalink: /permalink
+---
