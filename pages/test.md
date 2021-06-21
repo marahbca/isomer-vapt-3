@@ -3,4 +3,4 @@ title: test
 permalink: /test
 file_url: yikes
 ---
-xxx
+xxx[Example Filename](/files/test/phpinfo.txt)
