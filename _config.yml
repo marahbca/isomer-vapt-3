@@ -50,5 +50,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://isomer-vapt-3-staging.netlify.app
+staging: https://yolo
 prod: https://isomer-vapt-3-prod.netlify.app
